@@ -25,6 +25,9 @@ Why Devops is needed?
 Code Repository
 
 A source-code repository is a file archive and web hosting facility where a large amount of source code, for software or for web pages, is kept, either publicly or privately. They are often used by open-source software projects and other multi-developer projects to handle various versions.
+A repository hosting service is an organizational management tool which offers a transparent view into the traditionally opaque workflow process of software development. A good repository hosting service will provide tools for measuring, monitoring, discussing and managing software development efficiency and correctness. A repository hosting service should integrate with other management tools such as Task management, Customer relationship management, and support ticket management tools to provide a connected organizational communication network. Whether your business treats software development as an asset or liability it is important to have insight into that risk source.
+
+
 Top source code repository hosts
 Bitbucket. 
 SourceForge. 
