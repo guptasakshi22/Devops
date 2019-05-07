@@ -1,0 +1,37 @@
+What is DevOps?
+
+DevOps is a culture which promotes collaboration between Development and Operations Team to deploy code to production faster in an automated & repeatable way. The word 'DevOps' is a combination of two words 'development' and 'operations.'
+
+DevOps helps to increase an organization's speed to deliver applications and services. It allows organizations to serve their customers better and compete more strongly in the market.
+
+In simple words, DevOps can be defined as an alignment of development and IT operations with better communication and collaboration.
+
+
+Why Devops is needed?
+
+1) Before DevOps, the development and operation team worked in complete isolation.
+
+2)Testing and Deployment were isolated activities done after design-build. Hence they consumed more time than actual build cycles.
+
+3)Without using DevOps, team members are spending a large amount of their time in testing, deploying, and designing instead of building the project.
+
+4)Manual code deployment leads to human errors in production
+
+5)Coding & operation teams have their separate timelines and are not in synch causing further delays.
+
+6)There is a demand to increase the rate of software delivery by business stakeholders. As per Forrester Consulting Study, Only 17% of teams can use delivery software fast enough. This proves the pain point.
+
+
+Code Repository
+
+A source-code repository is a file archive and web hosting facility where a large amount of source code, for software or for web pages, is kept, either publicly or privately. They are often used by open-source software projects and other multi-developer projects to handle various versions.
+Top source code repository hosts
+Bitbucket. 
+SourceForge. 
+ProjectLocker. 
+GitLab. 
+CloudForge
+Fog Creek Kiln. 
+Launchpad. 
+Codeplane. 
+
